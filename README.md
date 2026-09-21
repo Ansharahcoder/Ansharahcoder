@@ -47,13 +47,8 @@
 - 🤝 **Collaborative Spirit:** Open to brainstorming and executing innovative ideas.
 
 ---
-
 ### 📊 GitHub Activity & Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansharahcoder&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansharahcoder&theme=tokyonight" width="48%" alt="GitHub Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansharahcoder&theme=react-dark&hide_border=true" width="98%" alt="Activity Graph" />
 </p>
