@@ -50,10 +50,10 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansharahcoder&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansharahcoder&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansharahcoder&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansharahcoder&theme=tokyonight" width="48%" alt="GitHub Details" />
 </p>
 
-<div align="center">
-  ✨ <i>Let's build something extraordinary together!</i> ✨
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansharahcoder&theme=react-dark&hide_border=true" width="98%" alt="Activity Graph" />
+</p>
