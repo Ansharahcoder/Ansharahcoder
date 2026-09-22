@@ -54,5 +54,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ansharahcoder&theme=tokyonight&no-frame=true&margin-w=15" width="98%" alt="GitHub Trophies" />
+  <img src="https://ghchart.rshah.org/40c463/Ansharahcoder" alt="Ansharah's Github Contributions Chart" width="100%" />
 </p>
