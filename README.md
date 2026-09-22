@@ -52,3 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansharahcoder&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansharahcoder&theme=tokyonight" width="48%" alt="GitHub Details" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ansharahcoder&theme=tokyonight&no-frame=true&margin-w=15" width="98%" alt="GitHub Trophies" />
+</p>
